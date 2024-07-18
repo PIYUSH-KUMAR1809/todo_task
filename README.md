@@ -3,13 +3,19 @@
 A todo list application which has feature for login. The UI consists of registration, login and toDO screen along with a splash screen in the beginning and a customLoader to access during API calls.
 
 ## Introduction
+Dummy login credentials - 
+username - emilys
+password - emilyspass
 
+you can add new tasks for today and tomorrow, but the API won't be called as no server side changes are made by the provided API.
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+I have used GetX for state management in this project
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The screenshots for the project are attached below in the drive link - 
+
+- [App ScreenShots](https://drive.google.com/drive/folders/1eR5SnBAIrreyEkmft4G7oG29QDIBj0wf?usp=sharing)
+
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,

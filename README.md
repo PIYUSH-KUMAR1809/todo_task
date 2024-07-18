@@ -1,8 +1,8 @@
 # todo_dev_task
 
-A new Flutter project.
+A todo list application which has feature for login. The UI consists of registration, login and toDO screen along with a splash screen in the beginning and a customLoader to access during API calls.
 
-## Getting Started
+## Introduction
 
 This project is a starting point for a Flutter application.
 
